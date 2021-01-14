@@ -23,8 +23,9 @@ def fifth_challenge
    }
   }
 
-  #code your solution here:
-
+  epic_tragedy[:montague][:patriarch][:name] = "Michael Jordan"
+  epic_tragedy[:montague][:hero][:status] = "dead"
+  epic_tragedy[:capulet][:heroine][:status] = "dead"
 
   #Don't touch the following line! The method must return our newly modified epic tragedy hash
   epic_tragedy
